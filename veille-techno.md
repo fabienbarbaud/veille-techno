@@ -103,7 +103,7 @@ Synonymes : ordonné, organisé, rigoureux, réglé, méthodique
 - Réseaux sociaux
 - Communiqués de presse
 - Blogs
-- Sites spécalisés
+- Sites spécialisés
 - Bases de données de brevets
 - ...
 
